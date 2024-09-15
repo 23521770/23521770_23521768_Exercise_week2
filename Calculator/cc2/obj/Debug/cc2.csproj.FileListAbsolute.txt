@@ -1,0 +1,10 @@
+C:\Users\DELL\source\repos\cc2\cc2\bin\Debug\cc2.exe.config
+C:\Users\DELL\source\repos\cc2\cc2\bin\Debug\cc2.exe
+C:\Users\DELL\source\repos\cc2\cc2\bin\Debug\cc2.pdb
+C:\Users\DELL\source\repos\cc2\cc2\obj\Debug\cc2.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\cc2\cc2\obj\Debug\cc2.Form1.resources
+C:\Users\DELL\source\repos\cc2\cc2\obj\Debug\cc2.Properties.Resources.resources
+C:\Users\DELL\source\repos\cc2\cc2\obj\Debug\cc2.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\cc2\cc2\obj\Debug\cc2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\cc2\cc2\obj\Debug\cc2.exe
+C:\Users\DELL\source\repos\cc2\cc2\obj\Debug\cc2.pdb
