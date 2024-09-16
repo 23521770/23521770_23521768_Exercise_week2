@@ -59,5 +59,10 @@ namespace demo2
                 pictureBox1.Image = imageList.Images[selectedItemIndex];
             };
         }
+
+        private void openFileDialog1_FileOk(object sender, CancelEventArgs e)
+        {
+
+        }
     }
 }

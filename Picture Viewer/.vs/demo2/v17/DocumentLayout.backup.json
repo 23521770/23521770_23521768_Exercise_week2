@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\demo2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F2B4FA2-7C6B-46C4-B0A5-ABD4AB5F5A94}|demo2\\demo2.csproj|c:\\users\\dell\\source\\repos\\demo2\\demo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{2F2B4FA2-7C6B-46C4-B0A5-ABD4AB5F5A94}|demo2\\demo2.csproj|C:\\Users\\DELL\\source\\repos\\demo2\\demo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{2F2B4FA2-7C6B-46C4-B0A5-ABD4AB5F5A94}|demo2\\demo2.csproj|solutionrelative:demo2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
@@ -26,9 +26,9 @@
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\demo2\\demo2\\Form1.cs",
               "RelativeDocumentMoniker": "demo2\\Form1.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\demo2\\demo2\\Form1.cs*",
-              "RelativeToolTip": "demo2\\Form1.cs*",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwDgAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\demo2\\demo2\\Form1.cs",
+              "RelativeToolTip": "demo2\\Form1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwEAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T14:30:10.242Z",
               "EditorCaption": ""
@@ -39,8 +39,8 @@
               "Title": "Form1.cs [Design]",
               "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\demo2\\demo2\\Form1.cs",
               "RelativeDocumentMoniker": "demo2\\Form1.cs",
-              "ToolTip": "C:\\Users\\DELL\\source\\repos\\demo2\\demo2\\Form1.cs [Design]*",
-              "RelativeToolTip": "demo2\\Form1.cs [Design]*",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\demo2\\demo2\\Form1.cs [Design]",
+              "RelativeToolTip": "demo2\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-14T14:27:16.539Z",
               "EditorCaption": " [Design]"
