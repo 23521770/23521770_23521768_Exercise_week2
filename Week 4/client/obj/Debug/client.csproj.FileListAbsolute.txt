@@ -1,0 +1,12 @@
+C:\Users\DELL\source\repos\Chatmessage3\client\bin\Debug\client.exe.config
+C:\Users\DELL\source\repos\Chatmessage3\client\bin\Debug\client.exe
+C:\Users\DELL\source\repos\Chatmessage3\client\bin\Debug\client.pdb
+C:\Users\DELL\source\repos\Chatmessage3\client\bin\Debug\SimpleTCP.dll
+C:\Users\DELL\source\repos\Chatmessage3\client\obj\Debug\client.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Chatmessage3\client\obj\Debug\client.Form1.resources
+C:\Users\DELL\source\repos\Chatmessage3\client\obj\Debug\client.Properties.Resources.resources
+C:\Users\DELL\source\repos\Chatmessage3\client\obj\Debug\client.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\Chatmessage3\client\obj\Debug\client.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Chatmessage3\client\obj\Debug\client.csproj.Up2Date
+C:\Users\DELL\source\repos\Chatmessage3\client\obj\Debug\client.exe
+C:\Users\DELL\source\repos\Chatmessage3\client\obj\Debug\client.pdb
