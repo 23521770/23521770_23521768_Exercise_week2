@@ -1,5 +1,6 @@
 Đỗ Ngọc Tường Vân - 23521770
 Bùi Nguyễn Tường Vân - 23521768
+Tên file trò chơi : PlayGame
 Hướng dẫn cách chơi
 - Hướng dẫn:
 + Người chơi có thể chọn giữa nhiều chế độ, chẳng hạn như chơi đơn, hoặc đối kháng.
