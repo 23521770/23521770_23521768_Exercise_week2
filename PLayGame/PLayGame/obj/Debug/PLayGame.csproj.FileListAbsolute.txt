@@ -1,0 +1,14 @@
+C:\Users\DELL\source\repos\PLayGame\PLayGame\bin\Debug\PLayGame.exe.config
+C:\Users\DELL\source\repos\PLayGame\PLayGame\bin\Debug\PLayGame.exe
+C:\Users\DELL\source\repos\PLayGame\PLayGame\bin\Debug\PLayGame.pdb
+C:\Users\DELL\source\repos\PLayGame\PLayGame\obj\Debug\PLayGame.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\PLayGame\PLayGame\obj\Debug\PLayGame.Form1.resources
+C:\Users\DELL\source\repos\PLayGame\PLayGame\obj\Debug\GuessTheWordGame.OnePlayer.resources
+C:\Users\DELL\source\repos\PLayGame\PLayGame\obj\Debug\PLayGame.Properties.Resources.resources
+C:\Users\DELL\source\repos\PLayGame\PLayGame\obj\Debug\PLayGame.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\PLayGame\PLayGame\obj\Debug\PLayGame.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\PLayGame\PLayGame\obj\Debug\PLayGame.exe
+C:\Users\DELL\source\repos\PLayGame\PLayGame\obj\Debug\PLayGame.pdb
+C:\Users\DELL\source\repos\PLayGame\PLayGame\obj\Debug\PLayGame.IP.resources
+C:\Users\DELL\source\repos\PLayGame\PLayGame\obj\Debug\PLayGame.MultiplePLayers.resources
+C:\Users\DELL\source\repos\PLayGame\PLayGame\obj\Debug\PLayGame.Instruction.resources
