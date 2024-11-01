@@ -1,0 +1,10 @@
+D:\LTMCB\C# TCP Private Chat + Filesharing with AsyncCallback\C# TCP Private Chat + Filesharing with AsyncCallback\bin\Debug\C# TCP Private Chat + Filesharing with AsyncCallback.exe.config
+D:\LTMCB\C# TCP Private Chat + Filesharing with AsyncCallback\C# TCP Private Chat + Filesharing with AsyncCallback\bin\Debug\C# TCP Private Chat + Filesharing with AsyncCallback.exe
+D:\LTMCB\C# TCP Private Chat + Filesharing with AsyncCallback\C# TCP Private Chat + Filesharing with AsyncCallback\bin\Debug\C# TCP Private Chat + Filesharing with AsyncCallback.pdb
+D:\LTMCB\C# TCP Private Chat + Filesharing with AsyncCallback\C# TCP Private Chat + Filesharing with AsyncCallback\obj\Debug\C# TCP Private Chat + Filesharing with AsyncCallback.csproj.AssemblyReference.cache
+D:\LTMCB\C# TCP Private Chat + Filesharing with AsyncCallback\C# TCP Private Chat + Filesharing with AsyncCallback\obj\Debug\C__TCP_Private_Chat___Filesharing_with_AsyncCallback.Form1.resources
+D:\LTMCB\C# TCP Private Chat + Filesharing with AsyncCallback\C# TCP Private Chat + Filesharing with AsyncCallback\obj\Debug\C__TCP_Private_Chat___Filesharing_with_AsyncCallback.Properties.Resources.resources
+D:\LTMCB\C# TCP Private Chat + Filesharing with AsyncCallback\C# TCP Private Chat + Filesharing with AsyncCallback\obj\Debug\C# TCP Private Chat + Filesharing with AsyncCallback.csproj.GenerateResource.cache
+D:\LTMCB\C# TCP Private Chat + Filesharing with AsyncCallback\C# TCP Private Chat + Filesharing with AsyncCallback\obj\Debug\C# TCP Private Chat + Filesharing with AsyncCallback.csproj.CoreCompileInputs.cache
+D:\LTMCB\C# TCP Private Chat + Filesharing with AsyncCallback\C# TCP Private Chat + Filesharing with AsyncCallback\obj\Debug\C# TCP Private Chat + Filesharing with AsyncCallback.exe
+D:\LTMCB\C# TCP Private Chat + Filesharing with AsyncCallback\C# TCP Private Chat + Filesharing with AsyncCallback\obj\Debug\C# TCP Private Chat + Filesharing with AsyncCallback.pdb
